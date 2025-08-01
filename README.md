@@ -24,11 +24,6 @@ IOC analysis and mitigation strategies from real-world campaigns:
 ### Custom Tools
 - [`log-analyzer.py`](./tools/log-analyzer.py): A Python CLI script to parse Event Logs and flag anomalies based on keyword filters
 
-### Credentials
-![CySA+](./certs-badges/CySA+_badge.png) ![Security+](./certs-badges/Security+_badge.png) ![ISC2](./certs-badges/ISC2_CC_badge.png)
-
-
-
 ---
 
 ## 📫 Contact
